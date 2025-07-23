@@ -1,0 +1,18 @@
+# EEG Emotion Detection App
+
+A mobile-based application that detects emotional states in real-time using EEG signals and suggests stress-relieving activities.
+
+## 🔍 Overview
+- Reads EEG signals via Bluetooth from a headband device
+- Classifies emotional states like stress, calm, focus, etc.
+- Triggers actions such as breathing exercises when stress is detected
+- Dashboard for viewing emotion history and trends
+
+## 🛠️ Tech Stack
+- Flutter (Frontend)
+- Python (Signal processing + model training)
+- Firebase (Real-time data sync)
+- Bluetooth communication module
+
+## 📌 Status
+Prototype developed for a personal project. Code and demo will be published soon.
